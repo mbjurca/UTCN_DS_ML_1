@@ -9,7 +9,7 @@ We highly recommend creating a **dedicated virtual environment** to work on this
 ### Instructions:
 
 1. Create a virtual environment using tools like `conda`.
-2. Install the required packages listed in the `requirements.txt` file.
+2. Create a new conda enviroment with the following comand `conda env create --file=environment.yml`.
 3. **Note:** New dependencies may be introduced in future labs, so check the requirements before each session.
 
 ## 📂 Repository Structure
